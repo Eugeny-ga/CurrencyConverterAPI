@@ -13,7 +13,6 @@ Django REST Framework - 3.14.0
 
 Скачайте проект с Гитхаб и из корневой директории
 выполните следующие команды:
-
 pip install -r requirements.txt
 python manage.py runserver
 
@@ -21,7 +20,6 @@ python manage.py runserver
 Запуск в Docker:
 Скачайте проект с Гитхаб и из корневой директории
 выполните следующие команды:
-
 docker-compose up
 
 Настройка:
